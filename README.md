@@ -1,0 +1,1 @@
+# printing-prime-numbers-from-given-list-in-python
